@@ -9,7 +9,7 @@
     }
   ],
   "dependencies": {
-      "mbed-classic": "~0.0.3",
+      "mbed-classic": "~0.0.4",
       "ble": "ARMmbed/BLE_API#master",
       "ble-nrf51822": "ARMmbed/nrf51822"
   },
